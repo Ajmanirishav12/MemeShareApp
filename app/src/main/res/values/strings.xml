@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MemesShareApp</string>
+    <string name="share">Share</string>
+    <string name="next">Next</string>
+    <string name="apiss">https://meme-api.herokuapp.com/gimme</string>
+    <string name="typr">text/plain</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="your_email">Your Email</string>
+</resources>
